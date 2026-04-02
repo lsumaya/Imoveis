@@ -38,27 +38,6 @@ tabela_itens <- prop.table(table(dados$itens_embutidos > mean(dados$itens_embuti
 print("Proporção de Itens acima da média:")
 print(tabela_itens)
 
-# 3. Análise de Proporções (Valores acima da média)
-# Preço
-tabela_preco <- prop.table(table(dados$preco > mean(dados$preco)))
-print("Proporção de Preços acima da média:")
-print(tabela_preco)
-
-# Metragem
-tabela_metragem <- prop.table(table(dados$metragem > mean(dados$metragem)))
-print("Proporção de Metragem acima da média:")
-print(tabela_metragem)
-
-# Idade
-tabela_idade <- prop.table(table(dados$idade > mean(dados$idade)))
-print("Proporção de Idade acima da média:")
-print(tabela_idade)
-
-# Itens Embutidos
-tabela_itens <- prop.table(table(dados$itens_embutidos > mean(dados$itens_embutidos)))
-print("Proporção de Itens acima da média:")
-print(tabela_itens)
-
 # Histograma do preço
 ggplot(dados, aes(x = preco)) +
   geom_histogram(bins = 10, fill = "purple", color = "white") +
