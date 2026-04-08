@@ -19,4 +19,6 @@ hist(dados$metragem,
 
 
 # 3. Medidas descritivas
-# (PREENCHER NA BRANCH medidas)
+media_imposto = mean(dados$imposto_anual, na.rm = TRUE)
+mediana_imposto = median(dados$imposto_anual, na.rm = TRUE)
+desvio_imposto = sd(dados$imposto_anual, na.rm = TRUE)
