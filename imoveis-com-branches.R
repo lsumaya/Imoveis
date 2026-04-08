@@ -11,8 +11,11 @@ head(dados)
 
 
 # 2. Gráficos
-# (PREENCHER NA BRANCH graficos)
 
+dados$metragem = as.numeric(dados$metragem)
+hist(dados$metragem,
+     main = "Histograma da Metragem",
+     xlab = "metragem")
 
 
 # 3. Medidas descritivas
