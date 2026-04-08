@@ -1,0 +1,113 @@
+     preco     
+ Min.   : 580  
+ 1st Qu.: 915  
+ Median :1020  
+ Mean   :1089  
+ 3rd Qu.:1186  
+ Max.   :2100  
+    metragem    
+ Min.   : 99.7  
+ 1st Qu.:140.0  
+ Median :159.3  
+ Mean   :162.1  
+ 3rd Qu.:184.8  
+ Max.   :293.1  
+     idade      
+ Min.   : 1.00  
+ 1st Qu.: 6.00  
+ Median : 8.50  
+ Mean   :15.22  
+ 3rd Qu.:19.75  
+ Max.   :53.00  
+ itens_embutidos
+ Min.   :1.0    
+ 1st Qu.:3.0    
+ Median :4.0    
+ Mean   :3.8    
+ 3rd Qu.:4.0    
+ Max.   :8.0    
+ imposto_anual   
+ Min.   : 426.0  
+ 1st Qu.: 641.8  
+ Median : 784.0  
+ Mean   : 788.4  
+ 3rd Qu.: 918.8  
+ Max.   :1209.0  
+'data.frame':	40 obs. of  5 variables:
+ $ preco          : int  1560 1449 1375 1270 1250 1235 1170 995 900 960 ...
+ $ metragem       : num  192 171 184 188 215 ...
+ $ idade          : int  1 1 4 8 15 14 18 15 16 17 ...
+ $ itens_embutidos: int  5 3 5 6 3 5 8 4 2 6 ...
+ $ imposto_anual  : int  1161 1010 1191 930 984 1112 600 743 731 768 ...
+pacote ‘usethis’ desempacotado com sucesso e somas MD5 verificadas
+
+Os pacotes binários baixados estão em
+	C:\Users\faked\AppData\Local\Temp\RtmpOMMn2n\downloaded_packages
+     preco         metragem         idade      
+ Min.   : 580   Min.   : 99.7   Min.   : 1.00  
+ 1st Qu.: 915   1st Qu.:140.0   1st Qu.: 6.00  
+ Median :1020   Median :159.3   Median : 8.50  
+ Mean   :1089   Mean   :162.1   Mean   :15.22  
+ 3rd Qu.:1186   3rd Qu.:184.8   3rd Qu.:19.75  
+ Max.   :2100   Max.   :293.1   Max.   :53.00  
+ itens_embutidos imposto_anual   
+ Min.   :1.0     Min.   : 426.0  
+ 1st Qu.:3.0     1st Qu.: 641.8  
+ Median :4.0     Median : 784.0  
+ Mean   :3.8     Mean   : 788.4  
+ 3rd Qu.:4.0     3rd Qu.: 918.8  
+ Max.   :8.0     Max.   :1209.0  
+     preco         metragem         idade      
+ Min.   : 580   Min.   : 99.7   Min.   : 1.00  
+ 1st Qu.: 915   1st Qu.:140.0   1st Qu.: 6.00  
+ Median :1020   Median :159.3   Median : 8.50  
+ Mean   :1089   Mean   :162.1   Mean   :15.22  
+ 3rd Qu.:1186   3rd Qu.:184.8   3rd Qu.:19.75  
+ Max.   :2100   Max.   :293.1   Max.   :53.00  
+ itens_embutidos imposto_anual   
+ Min.   :1.0     Min.   : 426.0  
+ 1st Qu.:3.0     1st Qu.: 641.8  
+ Median :4.0     Median : 784.0  
+ Mean   :3.8     Mean   : 788.4  
+ 3rd Qu.:4.0     3rd Qu.: 918.8  
+ Max.   :8.0     Max.   :1209.0  
+     preco         metragem         idade      
+ Min.   : 580   Min.   : 99.7   Min.   : 1.00  
+ 1st Qu.: 915   1st Qu.:140.0   1st Qu.: 6.00  
+ Median :1020   Median :159.3   Median : 8.50  
+ Mean   :1089   Mean   :162.1   Mean   :15.22  
+ 3rd Qu.:1186   3rd Qu.:184.8   3rd Qu.:19.75  
+ Max.   :2100   Max.   :293.1   Max.   :53.00  
+ itens_embutidos imposto_anual   
+ Min.   :1.0     Min.   : 426.0  
+ 1st Qu.:3.0     1st Qu.: 641.8  
+ Median :4.0     Median : 784.0  
+ Mean   :3.8     Mean   : 788.4  
+ 3rd Qu.:4.0     3rd Qu.: 918.8  
+ Max.   :8.0     Max.   :1209.0  
+'data.frame':	40 obs. of  5 variables:
+ $ preco          : int  1560 1449 1375 1270 1250 1235 1170 995 900 960 ...
+ $ metragem       : num  192 171 184 188 215 ...
+ $ idade          : int  1 1 4 8 15 14 18 15 16 17 ...
+ $ itens_embutidos: int  5 3 5 6 3 5 8 4 2 6 ...
+ $ imposto_anual  : int  1161 1010 1191 930 984 1112 600 743 731 768 ...
+     preco         metragem         idade      
+ Min.   : 580   Min.   : 99.7   Min.   : 1.00  
+ 1st Qu.: 915   1st Qu.:140.0   1st Qu.: 6.00  
+ Median :1020   Median :159.3   Median : 8.50  
+ Mean   :1089   Mean   :162.1   Mean   :15.22  
+ 3rd Qu.:1186   3rd Qu.:184.8   3rd Qu.:19.75  
+ Max.   :2100   Max.   :293.1   Max.   :53.00  
+ itens_embutidos imposto_anual   
+ Min.   :1.0     Min.   : 426.0  
+ 1st Qu.:3.0     1st Qu.: 641.8  
+ Median :4.0     Median : 784.0  
+ Mean   :3.8     Mean   : 788.4  
+ 3rd Qu.:4.0     3rd Qu.: 918.8  
+ Max.   :8.0     Max.   :1209.0  
+'data.frame':	40 obs. of  5 variables:
+ $ preco          : int  1560 1449 1375 1270 1250 1235 1170 995 900 960 ...
+ $ metragem       : num  192 171 184 188 215 ...
+ $ idade          : int  1 1 4 8 15 14 18 15 16 17 ...
+ $ itens_embutidos: int  5 3 5 6 3 5 8 4 2 6 ...
+ $ imposto_anual  : int  1161 1010 1191 930 984 1112 600 743 731 768 ...
